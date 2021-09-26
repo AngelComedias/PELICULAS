@@ -1,16 +1,37 @@
 #EXTM3U
 
-#EXTINF:-1 TVG-LOGO="https://pics.filmaffinity.com/don_camillo-356433932-mmed.jpg" GROUP-TITLE="AÑO 1952", DON CAMILLO
+#EXTINF:-1 TVG-LOGO="https://pics.filmaffinity.com/don_camillo-356433932-mmed.jpg" GROUP-TITLE="FERNANDEL - GINO CERVI", DON CAMILLO
 https://archive.org/download/comedias-italianas_202109/%281952%29%20Don%20Camilo.mp4
 
-#EXTINF:-1 TVG-LOGO="https://pics.filmaffinity.com/le_retour_de_don_camillo_il_ritorno_di_don_camillo-938656991-mmed.jpg" GROUP-TITLE="AÑO 1953", IL RITORNO DI DON CAMILLO
+#EXTINF:-1 TVG-LOGO="https://pics.filmaffinity.com/le_retour_de_don_camillo_il_ritorno_di_don_camillo-938656991-mmed.jpg" GROUP-TITLE="FERNANDEL - GINO CERVI", IL RITORNO DI DON CAMILLO
 https://archive.org/download/comedias-italianas_202109/%281953%29%20Il%20Ritorno%20Di%20Don%20Camillo.mp4
 
-#EXTINF:-1 TVG-LOGO="https://pics.filmaffinity.com/don_camillo_e_l_onorevole_peppone_don_camillo_e_l_on_peppone-145336965-mmed.jpg" GROUP-TITLE="AÑO 1955", DON CAMILLO E L'ONOREVOLE PEPPONE
+#EXTINF:-1 TVG-LOGO="https://pics.filmaffinity.com/don_camillo_e_l_onorevole_peppone_don_camillo_e_l_on_peppone-145336965-mmed.jpg" GROUP-TITLE="FERNANDEL - GINO CERVI", DON CAMILLO E L'ONOREVOLE PEPPONE
 https://archive.org/download/comedias-italianas_202109/%281955%29%20Don%20Camilo%20y%20el%20Honorable%20Peppone.mp4
 
-#EXTINF:-1 TVG-LOGO="https://pics.filmaffinity.com/urlatori_alla_sbarra-371036685-mmed.jpg" GROUP-TITLE="AÑO 1960", URLATORI ALLA SBARRA
+#EXTINF:-1 TVG-LOGO="https://pics.filmaffinity.com/urlatori_alla_sbarra-371036685-mmed.jpg" GROUP-TITLE="ADRIANO CELENTANO", URLATORI ALLA SBARRA
 https://archive.org/download/comedias-italianas_202109/%281960%29%20Urlatori%20alla%20sbarra.mp4
 
-#EXTINF:-1 TVG-LOGO="https://pics.filmaffinity.com/don_camillo_monsignore_ma_non_troppo-972198937-mmed.jpg" GROUP-TITLE="AÑO 1961", DON CAMILLO MONSIGNORE MA NON TROPPO
+#EXTINF:-1 TVG-LOGO="https://pics.filmaffinity.com/don_camillo_monsignore_ma_non_troppo-972198937-mmed.jpg" GROUP-TITLE="FERNANDEL - GINO CERVI", DON CAMILLO MONSIGNORE MA NON TROPPO
 https://archive.org/download/comedias-italianas_202109/%281961%29%20Don%20Camilo%20monse%C3%B1or.mp4
+
+#EXTINF:-1 TVG-LOGO="https://pics.filmaffinity.com/boccaccio_70-927942704-mmed.jpg" GROUP-TITLE="SOPHIA LOREN", BOCACCIO '70
+https://archive.org/download/comedias-italianas_202109/%281962%29%20Boccaccio%2070.mp4
+
+#EXTINF:-1 TVG-LOGO="https://movieplayer.net-cdn.it/t/images/2013/04/09/i-due-evasi-di-sing-sing-271086_jpg_400x0_crop_q85.jpg" GROUP-TITLE="FRANCO FRANCHI - CICCIO INGRASSIA", I DUE EVASI DI SING SING
+https://archive.org/download/comedias-italianas_202109/%281964%29%20I%20due%20evasi%20di%20Sing%20Sing.mp4
+
+#EXTINF:-1 TVG-LOGO="https://pics.filmaffinity.com/sedotti_e_bidonati-467349822-mmed.jpg" GROUP-TITLE="FRANCO FRANCHI - CICCIO INGRASSIA", SEDOTTI E BIDONATI
+https://archive.org/download/comedias-italianas_202109/%281964%29%20Sedotti%20e%20bidonati.mp4
+
+#EXTINF:-1 TVG-LOGO="https://pics.filmaffinity.com/002_operazione_luna-317029331-mmed.jpg" GROUP-TITLE="FRANCO FRANCHI - CICCIO INGRASSIA", 002 OPERAZIONE LUNA
+https://archive.org/download/comedias-italianas_202109/%281965%29%20002%20Operazione%20Luna.mp4
+
+#EXTINF:-1 TVG-LOGO="https://pics.filmaffinity.com/come_inguaiammo_l_esercito-777344397-mmed.jpg" GROUP-TITLE="FRANCO FRANCHI - CICCIO INGRASSIA", COME INGUAIAMMO L'ESERCITO
+https://archive.org/download/comedias-italianas_202109/%281965%29%20Come%20inguaiammo%20l%27esercito.mp4
+
+#EXTINF:-1 TVG-LOGO="https://pics.filmaffinity.com/due_mafiosi_contro_goldginger-252711584-large.jpg" GROUP-TITLE="FRANCO FRANCHI - CICCIO INGRASSIA", DUE MAFIOSI CONTRO GOLDGINGER
+https://archive.org/download/comedias-italianas_202109/%281965%29%20Due%20mafiosi%20contro%20Goldginger.mp4
+
+#EXTINF:-1 TVG-LOGO="https://pics.filmaffinity.com/il_compagno_don_camillo-982954929-mmed.jpg" GROUP-TITLE="FERNANDEL - GINO CERVI", IL COMPAGNO DON CAMILLO
+https://archive.org/download/comedias-italianas_202109/%281965%29%20El%20Camarada%20Don%20Camilo.mp4
